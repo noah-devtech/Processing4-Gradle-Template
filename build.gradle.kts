@@ -46,7 +46,7 @@ dependencies {
 }
 
 application {
-    mainClass.set("Main")
+    mainClass.set("io.github.noah_devtech.Main")
     applicationDefaultJvmArgs =
         listOf(
             "--add-exports=java.desktop/sun.awt=ALL-UNNAMED",
