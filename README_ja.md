@@ -18,6 +18,7 @@ gradlew.bat run
 
 ```bash
 ./gradlew run
+chmod +x gradlew
 ```
 
 ### 開発の開始
