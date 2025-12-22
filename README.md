@@ -17,6 +17,7 @@ gradlew.bat run
 ### For macOS/Linux
 
 ```bash
+chmod +x gradlew
 ./gradlew run
 ```
 
