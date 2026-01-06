@@ -23,7 +23,7 @@ chmod +x gradlew
 
 ### 開発の開始
 
-`src/main/java/io/github/noah_devtech/Main.java` を編集してコードを書き始めてください。
+`src/main/java/org/example/Main.java` を編集してコードを書き始めてください。
 
 ## 技術スタック
 
@@ -31,4 +31,4 @@ chmod +x gradlew
 - Gradle: 9.0.0
 - Java(JDK): 17
 - JOGL/GlueGen: 2.5.0
-- Kotlin Standard Library:2.2.20
+- Kotlin Standard Library: 2.2.20
