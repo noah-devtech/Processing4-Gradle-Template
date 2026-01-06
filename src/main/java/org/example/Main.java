@@ -1,11 +1,11 @@
-package io.github.noah_devtech;
+package org.example;
 
 import processing.core.PApplet;
 
 
 public class Main extends PApplet {
     public static void main(String[] args) {
-        PApplet.main("io.github.noah_devtech.Main");
+        PApplet.main(Main.class.getName());
     }
 
     @Override

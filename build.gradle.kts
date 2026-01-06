@@ -3,7 +3,7 @@ plugins {
     id("application")
 }
 
-group = "io.github.noah_devtech"
+group = "org.example"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -48,7 +48,7 @@ dependencies {
 }
 
 application {
-    mainClass.set("io.github.noah_devtech.Main")
+    mainClass.set("org.example.Main")
     applicationDefaultJvmArgs =
         listOf(
             "--add-exports=java.desktop/sun.awt=ALL-UNNAMED",
