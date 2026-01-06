@@ -17,8 +17,8 @@ gradlew.bat run
 ### For macOS/Linux
 
 ```bash
-./gradlew run
 chmod +x gradlew
+./gradlew run
 ```
 
 ### 開発の開始
@@ -27,7 +27,8 @@ chmod +x gradlew
 
 ## 技術スタック
 
--   Processing: 4.3.3
--   Gradle: 9.0.0
--   Java(JDK): 17
--   JOGL/GlueGen: 2.5.0
+- Processing: 4.3.3
+- Gradle: 9.0.0
+- Java(JDK): 17
+- JOGL/GlueGen: 2.5.0
+- Kotlin Standard Library:2.2.20

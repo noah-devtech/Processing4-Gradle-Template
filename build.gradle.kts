@@ -21,6 +21,8 @@ val processingVersion = "4.3.3"
 val joglVersion = "2.5.0"
 
 dependencies {
+    // kotlin-stdlib
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:2.2.20")
     // Processing Core
     implementation("org.processing:core:$processingVersion")
 

@@ -27,7 +27,8 @@ Edit `src/main/java/io/github/noah_devtech/Main.java` to start writing your code
 
 ## Technology Stack
 
--   Processing: 4.3.3
--   Gradle: 9.0.0
--   Java(JDK): 17
--   JOGL/GlueGen: 2.5.0
+- Processing: 4.3.3
+- Gradle: 9.0.0
+- Java(JDK): 17
+- JOGL/GlueGen: 2.5.0
+- Kotlin Standard Library:2.2.20
