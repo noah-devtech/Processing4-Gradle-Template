@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "org.example"
-version = "1.0-SNAPSHOT"
+version = "1.0"
 
 repositories {
     mavenCentral()
@@ -17,7 +17,7 @@ java {
     }
 }
 
-val processingVersion = "4.3.3"
+val processingVersion = "4.4.10"
 val joglVersion = "2.5.0"
 
 dependencies {

@@ -27,7 +27,7 @@ chmod +x gradlew
 
 ## 技術スタック
 
-- Processing: 4.3.3
+- Processing: 4.4.10
 - Gradle: 9.0.0
 - Java(JDK): 17
 - JOGL/GlueGen: 2.5.0
